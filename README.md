@@ -6,7 +6,7 @@
 # Demostracion
 * En la parte superior izquierda nos encontramos con varios botones los cuales nos permiten modificar ciertos valores. Estos cambios de valores se ven de inmediato en el comportamiento del personaje
 
-  <img src=https://github.com/MarcoPaoletta/DoubleJump/blob/master/assets/Demostration.mp4>
+  <img width=70% heigth=70% src=https://github.com/MarcoPaoletta/DoubleJump/blob/master/assets/Demostration.gif>
 ---
 # Descargar Godot Engine e importar el proyecto
 
